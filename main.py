@@ -1,1 +1,1 @@
-from cnnClassifier import logger
+from srccnnClassifier import logger
